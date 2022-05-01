@@ -325,7 +325,7 @@ a:hover {
 .nav>li {
     float: left;
     margin-top: 4px;
-    font-size: 16px
+    font-size: 20px
 }
 
 .navbar-nav .open .dropdown-menu>li>a {
@@ -684,7 +684,7 @@ a {
 }
 
 p {
-    font-size: 13px
+    font-size: 16px
 }
 
 .tight-width-whitespace {
